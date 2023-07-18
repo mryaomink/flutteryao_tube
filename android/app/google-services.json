@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435381682751",
+    "project_id": "video-streaming-yao",
+    "storage_bucket": "video-streaming-yao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435381682751:android:5ea9d9fe56b31428cc6e8a",
+        "android_client_info": {
+          "package_name": "com.example.yao_podstream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435381682751-nq1228op5fncfle8urs3g78ip589kp9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApaYJVT8yzdCEZS1U_lb0t9K5mzkpKxBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435381682751-nq1228op5fncfle8urs3g78ip589kp9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
